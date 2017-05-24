@@ -21,3 +21,16 @@ The code will look like the following:
  |:-----:|:-----:|:-----:|:-----:|
  | 1-8 | R 3.3.x (or higher) | At least 1 GB of RAM, a mouse, and enough disk space for recovered files, image files, etc. | An Intel\AMD compatible platform running Windows 2000, XP/2003/Vista/7/8/2012 Server/8.1/10 or any unix based OS |
  |  | RStudio Desktop 1.0.x | A network connection for installing packages, connecting to social networks and downloading datasets |  |
+ 
+ ### Note:
+For Chapter01, use the code given in the chapter
+
+## Related Products:
+* [Mastering Social Media Mining with R](https://www.packtpub.com/big-data-and-business-intelligence/mastering-social-media-mining-r?utm_source=github&utm_medium=repository&utm_content=9781784396312)
+
+* [Social Media Mining with R](https://www.packtpub.com/big-data-and-business-intelligence/social-media-mining-r?utm_source=github&utm_medium=repository&utm_content=9781783281770)
+
+* [Learning Predictive Analytics with R](https://www.packtpub.com/big-data-and-business-intelligence/learning-predictive-analytics-r?utm_source=github&utm_medium=repository&utm_content=9781782169352)
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
